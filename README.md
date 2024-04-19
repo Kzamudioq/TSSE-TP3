@@ -23,7 +23,7 @@ El filtro de Kalman juega un papel fundamental en Realità, el sistema autónomo
 Esta integración inteligente de datos permite a Realità generar mapas detallados y precisos del entorno, lo que resulta crucial para una amplia gama de aplicaciones, desde la planificación urbana hasta la gestión de recursos naturales. En resumen, el filtro de Kalman desempeña un papel crucial en la transformación de datos crudos en una representación digital precisa y completa del mundo real.
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/7abada0b-9ffd-4dd6-bc57-3e19421aa88d"> 
+    <img width="70%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/7abada0b-9ffd-4dd6-bc57-3e19421aa88d"> 
 </p>
 
 
@@ -63,7 +63,7 @@ ceedling test:all
 ```
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/30f02951-4902-4593-ac5b-30bba2b36be3"> 
+    <img width="70%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/30f02951-4902-4593-ac5b-30bba2b36be3"> 
 </p>
 
 
@@ -74,7 +74,7 @@ ceedling clobber gcov:all utils:gcov
 ```
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/1a7c8eb8-4c41-42f7-8fd4-48d7da1a8f51"> 
+    <img width="70%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/1a7c8eb8-4c41-42f7-8fd4-48d7da1a8f51"> 
 </p>
 
 Para generar la documentación del proyecto se utiliza el siguiente comando:
