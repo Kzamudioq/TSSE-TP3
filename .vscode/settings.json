@@ -1,3 +1,9 @@
 {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "tpl.plugins": "json",
+        "gps.h": "c",
+        "string.h": "c",
+        "stdint.h": "c"
+    }
 }
