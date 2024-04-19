@@ -1,4 +1,4 @@
-@Kzamudio ¿Qué te parece el repositorio? ¡Está chido! :+1:
+@Kzamudio ¿Qué te parece el trabajo? ¡te ha gustado! :+1:
 
 <h1 align="center">
   <p align="center">:star: Filtro de Kalman - Implementación y Pruebas Unitarias :star:</p>
