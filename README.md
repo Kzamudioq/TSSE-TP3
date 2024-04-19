@@ -63,7 +63,7 @@ ceedling test:all
 ```
 
 <p align="center" width="100%">
-    <img width="40%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/dc53bc81-d2ed-4b99-9804-ee193a1c81b9"> 
+    <img width="40%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/30f02951-4902-4593-ac5b-30bba2b36be3"> 
 </p>
 
 
@@ -72,6 +72,10 @@ Para generar el informe de cobertura de las pruebas se utiliza el siguiente coma
 ```
 ceedling clobber gcov:all utils:gcov
 ```
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/1a7c8eb8-4c41-42f7-8fd4-48d7da1a8f51"> 
+</p>
 
 Para generar la documentación del proyecto se utiliza el siguiente comando:
 
