@@ -23,7 +23,7 @@ El filtro de Kalman juega un papel fundamental en Realità, el sistema autónomo
 Esta integración inteligente de datos permite a Realità generar mapas detallados y precisos del entorno, lo que resulta crucial para una amplia gama de aplicaciones, desde la planificación urbana hasta la gestión de recursos naturales. En resumen, el filtro de Kalman desempeña un papel crucial en la transformación de datos crudos en una representación digital precisa y completa del mundo real.
 
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/7abada0b-9ffd-4dd6-bc57-3e19421aa88d"> 
+    <img width="50%" src="https://github.com/Kzamudioq/TSSE-TP3/assets/138271936/7abada0b-9ffd-4dd6-bc57-3e19421aa88d"> 
 </p>
 
 
@@ -32,9 +32,6 @@ Esta integración inteligente de datos permite a Realità generar mapas detallad
 
 El código fuente proporcionado implementa un Filtro de Kalman en C. El archivo kalman_filter.c contiene las funciones para inicializar el filtro, realizar predicciones, actualizaciones y obtener estimaciones del estado del sistema.
 
-<p align="center" width="100%">
-    <img width="30%" src="https://github.com/Kzamudioq/AdM_workspace/assets/138271936/0f2c5716-6713-4066-b01a-244e71a82916"> 
-</p>
 
 ## Pruebas Unitarias
 Se han desarrollado pruebas unitarias utilizando Ceedling para garantizar la correcta funcionalidad de la implementación del Filtro de Kalman que se muestra a continuación: 
